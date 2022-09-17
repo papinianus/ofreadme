@@ -1,0 +1,3 @@
+# READ_ME
+
+CONSTANT_CASE
